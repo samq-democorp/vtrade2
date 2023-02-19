@@ -6,8 +6,5 @@
       "minVulnerabilitySeverity": "LOW"
     },
     "extends": ["github>whitesource/merge-confidence:beta"]
-  },
-  "leastVulnerablePackageSettings": {
-    "enabled": true
   }
 }
